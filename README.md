@@ -1,0 +1,1 @@
+# vue-supabase-starter-kit-22
